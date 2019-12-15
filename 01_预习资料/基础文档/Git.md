@@ -8,7 +8,7 @@
 
 n 个人工作
 
-![img](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/Git/wps251.jpg) 
+![img](../../04_其他/img-folder/Git/wps251.jpg) 
 
 往往为了恢复到某一个版本，我们不停的对我们的文件进行复制修改（备份）
 
