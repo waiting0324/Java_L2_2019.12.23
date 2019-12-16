@@ -13,13 +13,13 @@
 
 ### 1、github新建私有仓库
 
-![1576149539404](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576149539404.png)
+![1576149539404](https://github.com/lagouedu/Basic-document/blob/master/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B1576149539404.png)
 
-![1576149611485](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576149611485.png)
+![1576149611485](https://github.com/lagouedu/Basic-document/blob/master/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B1576149611485.png)
 
 ### 2、添加lagouedu用户为协作者
 
-![1576151061961](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576151061961.png)![1576151091537](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576151091537.png)
+![1576151061961](https://github.com/lagouedu/Basic-document/blob/master/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B1576151061961.png)![1576151091537](https://github.com/lagouedu/Basic-document/blob/master/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B1576151091537.png)
 
 ### 3、github作业提交格式
        文字之类得用MarkdownPad编写，代码直接上传就好
