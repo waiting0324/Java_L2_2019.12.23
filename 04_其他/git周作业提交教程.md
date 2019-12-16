@@ -27,4 +27,8 @@
 
 
 
-![1576151061961](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_%E5%85%B6%E4%BB%96/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B/1.jpg)
+![1](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_%E5%85%B6%E4%BB%96/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B/1.jpg)
+
+![2](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_%E5%85%B6%E4%BB%96/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B/2.jpg)
+
+![3](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_%E5%85%B6%E4%BB%96/img-folder/git%E5%91%A8%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%95%99%E7%A8%8B/3.jpg)
