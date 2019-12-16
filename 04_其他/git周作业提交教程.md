@@ -21,14 +21,6 @@
 
 ![1576151061961](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576151061961.png)![1576151091537](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576151091537.png)
 
-### 3、本地创建本地仓库，并按以下图所示新建内容，将内容推送到github上
-
-注意：笔记提交你的博客地址或者其他地址就可以
-
-![1576150296714](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576150296714.png)
-
-![1576150327148](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576150327148.png)
-
-![1576150433968](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576150433968.png)
-
-![1576150720963](https://github.com/lagouedu/Java_L2_2019.12.23/blob/master/04_其他/img-folder/git周作业提交教程/1576150720963.png)
+### 3、github作业提交格式
+       文字之类得用MarkdownPad编写，代码直接上传就好
+       以阶段和模块进行区分，参考以下图片
