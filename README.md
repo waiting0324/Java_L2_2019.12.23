@@ -27,4 +27,3 @@
 | 多线程基础       | https://www.cnblogs.com/wxd0108/p/5479442.html               | 第十阶段  底层调优与算法深入                 | 1、创建方式及优缺点 2、多线程的状态及互相转换的方法          |
 | 电商站点业务     |                                                              | 第十一阶段  大型互联网项目实战和业务解决方案 | 1、理解电商业务流程                                          |
 | Vue基础          | https://www.runoob.com/vue2/vue-tutorial.html                |                                              | 1、MVVM模式理解  2、常用系统指令 3、axios ajax操作 4、可以看懂别人的html |
-
